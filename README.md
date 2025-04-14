@@ -8,7 +8,7 @@
 
 | Name                                                                | Category         | Tags                                      | Difficulty |
 | ------------------------------------------------------------------- | ---------------- | ----------------------------------------- | ---------- |
-| [baby_47](baby_47/chall/encrypted_values.txt>)                      | Crypto           | RSA                                       | ★          |
+| [baby_47](<baby_47/chall/encrypted_values.txt>)                     | Crypto           | RSA                                       | ★          |
 | [Weird_Prime](<Weird_Prime/chall/chall.py>)                         | Crypto           | RSA, LCG                                  | ★★★       |
 | [FCTme](<FCTme/chall/chall.py>)                                     | Crypto           | RSA, LCG                                  | ★★★       |
 | [b7al_rsa](<b7al_rsa/chall/chall.py>)                               | Crypto           | RSA, ECC                                  | ★★★       |
