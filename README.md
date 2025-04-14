@@ -8,10 +8,10 @@
 
 | Name                                                                | Category         | Tags                                      | Difficulty |
 | ------------------------------------------------------------------- | ---------------- | ----------------------------------------- | ---------- |
-| [baby_47](<Aisec_Crypto_chall/baby_47>)                             | Crypto           | RSA                                       | ★          |
-| [Weird_Prime](<Aisec_Crypto_chall/Weird_Prime>)                     | Crypto           | RSA, LCG                                  | ★★★       |
-| [FCTme](<Aisec_Crypto_chall/FCTme>)                                 | Crypto           | RSA, LCG                                  | ★★★       |
-| [b7al_rsa](<Aisec_Crypto_chall/b7al_rsa>)                           | Crypto           | RSA, ECC                                  | ★★★       |
-| [PEG_EFN](<Aisec_Crypto_chall/PEG_EFN>)                             | Crypto           | RSA_CRT, LLL                              | ★★★★★    |
+| [baby_47](baby_47/chall/encrypted_values.txt>)                      | Crypto           | RSA                                       | ★          |
+| [Weird_Prime](<Weird_Prime/chall/chall.py>)                         | Crypto           | RSA, LCG                                  | ★★★       |
+| [FCTme](<FCTme/chall/chall.py>)                                     | Crypto           | RSA, LCG                                  | ★★★       |
+| [b7al_rsa](<b7al_rsa/chall/chall.py>)                               | Crypto           | RSA, ECC                                  | ★★★       |
+| [PEG_EFN](<PEG_EFN/chall/chall.py>)                                 | Crypto           | RSA_CRT, LLL                              | ★★★★★    |
 
 
